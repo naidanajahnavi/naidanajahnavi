@@ -12,7 +12,7 @@
 Hi, I'm Jahnavi Naidana 👋
 </h1>
 
-<h3>⚙️ Site Reliability Engineer • DevOps | USA 🇺🇸</h3>
+<h3>⚙️ Site Reliability Engineer • DevOps • System Administrator </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7AFCFF&center=true&vCenter=true&width=520&lines=Automating+Systems.;Building+Resilient+Infrastructure.;Engineering+Reliability.;Keeping+Production+Happy+😄" />
 
