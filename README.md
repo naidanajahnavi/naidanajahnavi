@@ -71,7 +71,8 @@ Hi, I'm Jahnavi Naidana 👋
 
 <!-- Data -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="35" />
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Databricks-Symbol.png" height="35" />
+<img src="https://via.placeholder.com/200x60.png?text=Your+Project+Logo" height="35" />
+
 
 </div>
 
