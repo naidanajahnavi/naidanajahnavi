@@ -1,34 +1,36 @@
-<!-- 🌟 Unique & Modern GitHub README for Jahnavi Naidana -->
+<!-- 🚀 Ultimate Dual-Theme GitHub README for Jahnavi Naidana -->
 
-<h1 align="center" style="
-  font-size: 3.7em;
+<div align="center">
+
+<h1 style="
   font-family: 'Poppins', sans-serif;
   font-weight: 900;
-  letter-spacing: 1.8px;
   background: linear-gradient(135deg, #ff6ec7, #7afcff, #5cf19e);
   -webkit-background-clip: text;
   color: transparent;
-  text-shadow: 3px 3px 14px rgba(0,0,0,0.22);
 ">
-  Hey there! I'm <span style="color:#5cf19e;">Jahnavi Naidana</span> 👋
+Hi, I'm Jahnavi Naidana 👋
 </h1>
 
-<h3 align="center">⚙️ Site Reliability Engineer • DevOps Enthusiast • USA 🇺🇸</h3>
+<h3>⚙️ Site Reliability Engineer • DevOps | USA 🇺🇸</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7AFCFF&center=true&vCenter=true&width=520&lines=Automating+the+World.;Engineering+Reliability.;Designing+Resilient+Systems.;Keeping+Production+Happy+%F0%9F%98%8A" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7AFCFF&center=true&vCenter=true&width=520&lines=Automating+Systems.;Building+Resilient+Infrastructure.;Engineering+Reliability.;Keeping+Production+Happy+😄" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🔧 Obsessed with **automation, resilient systems, and scalable infrastructure**
-- 🐧 Power user of **Linux**, **Bash**, and all things **Kubernetes**
-- ☁️ Cloud & Infra: **AWS**, **Terraform**, **Docker**, **Ansible**, **Jenkins**
-- 📡 Love working on **monitoring & observability** using modern tooling
-- 🚀 Focused on **CI/CD**, **infra-as-code**, and **production-grade reliability**
-- 🌱 Currently upgrading skills in **advanced SRE tooling** & **platform engineering**
+- 🔧 Passionate about **automation, SRE, observability, and platform engineering**
+- 🐧 Linux • Bash • Kubernetes native
+- ☁️ Cloud (advanced): **AWS**
+- ☁️ Cloud (learning): **Azure**, **Google Cloud Platform**
+- 🧰 DevOps Stack: **Terraform**, **Docker**, **Ansible**, **Jenkins**, **Prometheus**, **Grafana**
+- ❄️ Data & Analytics: **Snowflake**, **Databricks**
+- 🗄️ Databases: **MySQL**, **PostgreSQL**, **MongoDB**, **Snowflake SQL**
+- 🚀 Love CI/CD, monitoring, and infrastructure-as-code
+- 🎯 Currently polishing **cloud reliability engineering + data platform automation**
 
 ---
 
@@ -36,15 +38,9 @@
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    height="160"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=naidanajahnavi&theme=radical&hide_border=true"
-    height="160"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naidanajahnavi&theme=radical&hide_border=true" height="160" />
 
 </div>
 
@@ -54,66 +50,90 @@
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="45" />
+
+<!-- Cloud -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45" title="Learning Azure" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="45" title="Learning GCP" />
+
+<!-- Monitoring -->
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="45" />
+
+<!-- Data -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="45" />
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Databricks-Symbol.png" height="45" />
+
 </div>
 
 ---
 
-## 💻 Skill Usage Overview
+## ❄️ Animated Snowflake Badge (Requested)
 
-<div align="center" style="font-family: monospace;">
-  <p>Shell Scripting</p>
-  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
-    <div style="background:linear-gradient(90deg,#00b894,#55efc4);width:72%;height:100%;border-radius:10px;"></div>
-  </div>
-
-  <p>JavaScript</p>
-  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
-    <div style="background:linear-gradient(90deg,#fdcb6e,#ffeaa7);width:18%;height:100%;border-radius:10px;"></div>
-  </div>
-
-  <p>Python</p>
-  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
-    <div style="background:linear-gradient(90deg,#6c5ce7,#a29bfe);width:12%;height:100%;border-radius:10px;"></div>
-  </div>
-
-  <p>YAML</p>
-  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
-    <div style="background:linear-gradient(90deg,#0984e3,#74b9ff);width:4%;height:100%;border-radius:10px;"></div>
-  </div>
-
-  <p>TypeScript</p>
-  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
-    <div style="background:linear-gradient(90deg,#e17055,#fab1a0);width:3%;height:100%;border-radius:10px;"></div>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Snowflake-00AEEF?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=1B1F24&cacheSeconds=3600" />
+  <br /><br />
+  <img src="https://static.wikia.nocookie.net/emoji/images/7/7e/Snowflake.gif/revision/latest?cb=20160419010140" height="70" />
 </div>
+
+---
+
+## 🧩 Databases I Work With
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="45" />
+
+</div>
+
+---
+
+## 🛠️ Jenkins Pipeline GIF (Requested)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qmN8ZpEhjZCjK/giphy.gif" height="180" />
+  <p><em>CI/CD — because automation never sleeps 🛠️</em></p>
+</div>
+
+---
+
+## 🌗 Automatic Light + Dark Mode
+
+GitHub automatically switches the theme based on your viewer’s settings.  
+Your README already supports **dual mode** because:
+
+🎨 All icons are **transparent / white-friendly**  
+🌓 Gradients look good on both themes  
+✨ Text colors adjust automatically
+
+No extra CSS needed — GitHub handles it.
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/jahnavi-y/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/jahnavi-y/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://discord.com/users/jahnavinaidana" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<a href="https://discord.com/users/jahnavinaidana">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-  <a href="https://twitch.tv/jahnavinaidana" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
+<a href="https://twitch.tv/jahnavinaidana">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
 
-</p>
-
----
+</div>
