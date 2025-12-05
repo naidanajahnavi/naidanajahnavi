@@ -23,11 +23,13 @@ Hi, I'm Jahnavi Naidana 👋
 ## 🧠 About Me
 
 - 🔧 Passionate about **automation, SRE, observability, and platform engineering**
-- 🐧 Linux • Bash • Kubernetes native
+- 🐧 Linux • Bash • Kubernetes 
 - ☁️ Cloud (advanced): **AWS**
 - ☁️ Cloud (learning): **Azure**, **Google Cloud Platform**
 - 🧰 DevOps Stack: **Terraform**, **Docker**, **Ansible**, **Jenkins**, **Prometheus**, **Grafana**
 - ❄️ Data & Analytics: **Snowflake**, **Databricks**
+- 📊 Monitoring & Observability: Prometheus, Grafana, Splunk
+- 🧩 Data Engineering & Messaging: Snowflake, Databricks, Apache Kafka
 - 🗄️ Databases: **MySQL**, **PostgreSQL**, **MongoDB**, **Snowflake SQL**
 - 🚀 Love CI/CD, monitoring, and infrastructure-as-code
 - 🎯 Currently polishing **cloud reliability engineering + data platform automation**
@@ -68,7 +70,6 @@ Hi, I'm Jahnavi Naidana 👋
 <!-- Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" />
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" />
-<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" height="35" title="Splunk" />
 
 <!-- Data Engineering & Messaging -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" height="35" title="Apache Kafka" />
