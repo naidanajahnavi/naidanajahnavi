@@ -53,25 +53,25 @@ Hi, I'm Jahnavi Naidana 👋
 <div align="center">
 
 <!-- DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" />
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="45" />
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="35" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="35" />
 
 <!-- Cloud -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="45" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45" title="Learning Azure" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="45" title="Learning GCP" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="35" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="35" title="Learning Azure" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="35" title="Learning GCP" />
 
 <!-- Monitoring -->
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="45" />
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" />
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" />
 
 <!-- Data -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="45" />
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Databricks-Symbol.png" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="35" />
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Databricks-Symbol.png" height="35" />
 
 </div>
 
