@@ -74,17 +74,6 @@ Hi, I'm Jahnavi Naidana 👋
 </div>
 
 ---
-
-## ❄️ Animated Snowflake Badge (Requested)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Snowflake-00AEEF?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=1B1F24&cacheSeconds=3600" />
-  <br /><br />
-  <img src="https://static.wikia.nocookie.net/emoji/images/7/7e/Snowflake.gif/revision/latest?cb=20160419010140" height="70" />
-</div>
-
----
-
 ## 🧩 Databases I Work With
 
 <div align="center">
@@ -95,29 +84,6 @@ Hi, I'm Jahnavi Naidana 👋
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="45" />
 
 </div>
-
----
-
-## 🛠️ Jenkins Pipeline GIF (Requested)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qmN8ZpEhjZCjK/giphy.gif" height="180" />
-  <p><em>CI/CD — because automation never sleeps 🛠️</em></p>
-</div>
-
----
-
-## 🌗 Automatic Light + Dark Mode
-
-GitHub automatically switches the theme based on your viewer’s settings.  
-Your README already supports **dual mode** because:
-
-🎨 All icons are **transparent / white-friendly**  
-🌓 Gradients look good on both themes  
-✨ Text colors adjust automatically
-
-No extra CSS needed — GitHub handles it.
-
 ---
 
 ## 🌐 Connect with Me
