@@ -1,98 +1,119 @@
-<!-- 💫 Creative GitHub README for Jahnavi Naidana -->
+<!-- 🌟 Unique & Modern GitHub README for Jahnavi Naidana -->
 
 <h1 align="center" style="
-  font-size: 3.8em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans‑serif;
+  font-size: 3.7em;
+  font-family: 'Poppins', sans-serif;
   font-weight: 900;
-  letter-spacing: 2px;
-  background: linear-gradient(135deg, #ff79c6, #8be9fd, #50fa7b);
+  letter-spacing: 1.8px;
+  background: linear-gradient(135deg, #ff6ec7, #7afcff, #5cf19e);
   -webkit-background-clip: text;
-  color: #ff79c6;
-  text-shadow: 4px 4px 16px rgba(0,0,0,0.25);
+  color: transparent;
+  text-shadow: 3px 3px 14px rgba(0,0,0,0.22);
 ">
-  Hi There, Welcome — I’m <span style="color:#50fa7b;">Jahnavi Naidana</span>
+  Hey there! I'm <span style="color:#5cf19e;">Jahnavi Naidana</span> 👋
 </h1>
 
-<h3 align="center">🚀 Site Reliability & DevOps Engineer | United States Of America </h3>
+<h3 align="center">⚙️ Site Reliability Engineer • DevOps Enthusiast • USA 🇺🇸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Automating+All+the+Things!;Monitoring+Everything!;Building+Reliable+Systems!;Keeping+Prod+Happy+😄" alt="Typing SVG" /> </p>
----
-
-### 🧠 About Me
-
-- 💼 Passionate about **reliability, scalability, and automation**
-- 🐧 Daily driver: **Linux, Bash, and Kubernetes**
-- 🧰 DevOps stack: **Docker, Terraform, Ansible, Jenkins, AWS**
-- 💬 Ask me about **CI/CD pipelines**, **monitoring**, and **SRE best practices**
-- 🎯 Currently improving **observability and infra-as-code**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7AFCFF&center=true&vCenter=true&width=520&lines=Automating+the+World.;Engineering+Reliability.;Designing+Resilient+Systems.;Keeping+Production+Happy+%F0%9F%98%8A" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🧠 About Me
+
+- 🔧 Obsessed with **automation, resilient systems, and scalable infrastructure**
+- 🐧 Power user of **Linux**, **Bash**, and all things **Kubernetes**
+- ☁️ Cloud & Infra: **AWS**, **Terraform**, **Docker**, **Ansible**, **Jenkins**
+- 📡 Love working on **monitoring & observability** using modern tooling
+- 🚀 Focused on **CI/CD**, **infra-as-code**, and **production-grade reliability**
+- 🌱 Currently upgrading skills in **advanced SRE tooling** & **platform engineering**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/apiusername=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidanajahnavi&theme=radical&hide_border=true" height="160" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    height="160"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=naidanajahnavi&theme=radical&hide_border=true"
+    height="160"
+  />
+
 </div>
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="yaml logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
 </div>
 
 ---
 
-### 💻 My Most Used Languages
+## 💻 Skill Usage Overview
 
 <div align="center" style="font-family: monospace;">
-  <p>Shell Script</p>
-  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
-    <div style="background:linear-gradient(90deg,#00b894,#55efc4);width:70%;height:100%;border-radius:10px;"></div>
+  <p>Shell Scripting</p>
+  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
+    <div style="background:linear-gradient(90deg,#00b894,#55efc4);width:72%;height:100%;border-radius:10px;"></div>
   </div>
+
   <p>JavaScript</p>
-  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
-    <div style="background:linear-gradient(90deg,#fdcb6e,#ffeaa7);width:15%;height:100%;border-radius:10px;"></div>
+  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
+    <div style="background:linear-gradient(90deg,#fdcb6e,#ffeaa7);width:18%;height:100%;border-radius:10px;"></div>
   </div>
+
   <p>Python</p>
-  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
-    <div style="background:linear-gradient(90deg,#6c5ce7,#a29bfe);width:10%;height:100%;border-radius:10px;"></div>
+  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
+    <div style="background:linear-gradient(90deg,#6c5ce7,#a29bfe);width:12%;height:100%;border-radius:10px;"></div>
   </div>
+
   <p>YAML</p>
-  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
-    <div style="background:linear-gradient(90deg,#0984e3,#74b9ff);width:3%;height:100%;border-radius:10px;"></div>
+  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
+    <div style="background:linear-gradient(90deg,#0984e3,#74b9ff);width:4%;height:100%;border-radius:10px;"></div>
   </div>
+
   <p>TypeScript</p>
-  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
-    <div style="background:linear-gradient(90deg,#e17055,#fab1a0);width:2%;height:100%;border-radius:10px;"></div>
+  <div style="background-color:#444;width:80%;height:15px;border-radius:10px;">
+    <div style="background:linear-gradient(90deg,#e17055,#fab1a0);width:3%;height:100%;border-radius:10px;"></div>
   </div>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/jahnavi-y/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://discord.com/users/jahnavinaidana" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
   <a href="https://twitch.tv/jahnavinaidana" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
+
 </p>
 
 ---
