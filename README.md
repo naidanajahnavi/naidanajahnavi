@@ -71,9 +71,6 @@ Hi, I'm Jahnavi Naidana 👋
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" />
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" />
 
-<!-- Data Engineering & Messaging -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" height="35" title="Apache Kafka" />
-
 <!-- Data -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="35" />
 
