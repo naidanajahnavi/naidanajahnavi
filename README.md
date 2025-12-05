@@ -68,11 +68,13 @@ Hi, I'm Jahnavi Naidana 👋
 <!-- Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" />
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" />
+<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" height="35" title="Splunk" />
+
+<!-- Data Engineering & Messaging -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" height="35" title="Apache Kafka" />
 
 <!-- Data -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="35" />
-<img src="https://via.placeholder.com/200x60.png?text=Your+Project+Logo" height="35" />
-
 
 </div>
 
