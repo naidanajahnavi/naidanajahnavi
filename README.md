@@ -16,9 +16,7 @@
 <h3 align="center">🚀 Site Reliability & DevOps Engineer | United States Of America </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Automating+All+the+Things!;Monitoring+Everything!;Building+Reliable+Systems!;Keeping+Prod+Happy+😄" alt="Typing SVG" />
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Automating+All+the+Things!;Monitoring+Everything!;Building+Reliable+Systems!;Keeping+Prod+Happy+😄" alt="Typing SVG" /> </p>
 ---
 
 ### 🧠 About Me
