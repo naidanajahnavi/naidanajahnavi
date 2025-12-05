@@ -32,8 +32,6 @@ Hi, I'm Jahnavi Naidana 👋
 - 🚀 Love CI/CD, monitoring, and infrastructure-as-code
 - 🎯 Currently polishing **cloud reliability engineering + data platform automation**
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -49,7 +47,6 @@ Hi, I'm Jahnavi Naidana 👋
   />
 
 </div>
----
 
 ## ⚙️ Tech Stack
 
@@ -78,7 +75,6 @@ Hi, I'm Jahnavi Naidana 👋
 
 </div>
 
----
 ## 🧩 Databases I Work With
 
 <div align="center">
@@ -89,7 +85,6 @@ Hi, I'm Jahnavi Naidana 👋
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="45" />
 
 </div>
----
 
 ## 🌐 Connect with Me
 
