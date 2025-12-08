@@ -37,19 +37,16 @@ Hi, I'm Jahnavi Naidana 👋
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=naidanajahnavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     height="160"
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=naidanajahnavi&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=naidanajahnavi&theme=radical&hide_border=true"
     height="160"
   />
-
 </div>
-
 
 ## ⚙️ Tech Stack
 
